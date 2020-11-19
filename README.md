@@ -22,7 +22,10 @@ It can be determined that although there are differences in temperature and prec
 Queries 1 and 2 were performed for June and December to show precipitation data for the two months. In June, the average precipiation had a low value of 0.136 while in December, the average precipitation was higher with a value of 0.217. The summary statistics of precipitation for June and December show that December generally experiences higher precipitation.
 
 *The following images show the queries performed for each month:*
+Image 1:
 
 ![precipitation1](Resources/Query_1.PNG)
+
+Image 2: 
 
 ![precipitation2](Resources/Query_2.PNG)
