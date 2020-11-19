@@ -16,7 +16,6 @@ The purpose of the analysis is to identify temperature trends in Oahu, Hawaii to
 
 # Summary:
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. 
 It can be determined that although there are differences in temperature and precipitation for June and December, the data does not vary drastically as shown in the summary statistics. A surf and ice cream shop business is feasible in Oahu.
 
 A snippet of the code used to produce the outcomes of the deliverables is provided below (code was altered as necessary for desired outcomes):
